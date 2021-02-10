@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Copyright / Author: John Lambert, 2021
+"""
+
 import argparse
 import logging
 import os
